@@ -27,7 +27,12 @@ To predict the financial product under which the cusotmer has filed a complaints
 
 
 ## 4. EDA
-> 
+> The maximum number of complaints raised have been for customers' credit/preparid cards and is closely followed by complaints related to their accounts
+
+> All of the complaints in scope were raised via web portal
+ 
+<img src='images/Product.png'><br/><br/><br/>
+<img src='images/Submittedvia.png'>
 
 ## 5. Preprocessing
 > **Decontraction** Common contracted words are de-contracted for ease of use while modeling. For example: I'm is de-contracted to I am.
